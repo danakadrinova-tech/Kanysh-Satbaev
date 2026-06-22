@@ -309,8 +309,8 @@ footer{
     <h2>Байланыс</h2>
 
     <form>
-        <input type="text" placeholder="Атыңыз">
-        <input type="email" placeholder="Email">
+        <input type="text" placeholder="Kadrinova Dana">
+        <input type="email" placeholder="danakadrinova@gmail.com">
         <textarea rows="5" placeholder="Хабарлама"></textarea>
         <button type="submit">Жіберу</button>
     </form>
